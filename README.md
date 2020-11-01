@@ -1,2 +1,3 @@
 # Vision-mobile-robot
-A robot which reaches a (mobile) visual goal while avoiding obstacles. A camera offering an "aerial" view is necessary.
+Autonomous robot implementing computer vision based dynamic path planning, obstacle avoidance, SLAM, Kalman filter...
+A camera offering an "aerial" view is necessary.
